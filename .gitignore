@@ -1,0 +1,12 @@
+venv/*
+__pycache__/*
+images/*
+*__pycache__/*
+**/__pycache__/*
+.chainlit/*
+config.json
+**/config.json
+plugins/*/config.json
+tmp/*
+.env
+test/*
